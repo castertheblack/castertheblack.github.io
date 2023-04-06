@@ -22,3 +22,24 @@ h1{background-color: blueviolet; text-align: center;
 
 }
 
+.nav {
+    background-color: violet;
+}
+
+.nav li a{
+    color:black
+}
+.nav li a:hover{
+    color:grey
+}
+
+/*.back {
+    background-color: violet; background-size: covrer;
+}
+*/
+.back li a{
+    color:black
+}
+.back li a:hover{
+    color:grey
+}
