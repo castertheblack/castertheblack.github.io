@@ -37,9 +37,9 @@ h1{background-color: blueviolet; text-align: center;
     background-color: violet; background-size: covrer;
 }
 */
-.back li a{
+.back a{
     color:black
 }
-.back li a:hover{
+.back a:hover{
     color:grey
 }
